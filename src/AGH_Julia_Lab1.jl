@@ -1,7 +1,7 @@
 module AGH_Julia_Lab1
 
 # package code goes here
-function hello
+function hello()
  "hello "
 end
 
